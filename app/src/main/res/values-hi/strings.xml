@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">साथी</string>
+    <string name="tagline">पढ़ाई का दोस्त</string>
+    <string name="shuru_karein">शुरू करें</string>
+    <string name="name_prompt">अपने साथी का नाम क्या होगा?</string>
+    <string name="name_hint">नाम लिखो</string>
+    <string name="backstory_cta">यही है मेरा साथी!</string>
+    <string name="city_prompt">तुम कहाँ से हो?</string>
+    <string name="city_hint">शहर चुनो</string>
+    <string name="session_prompt">कितनी देर पढ़ना है एक बार में?</string>
+    <string name="session_preview">%d मिनट पढ़ाई, फिर %d मिनट चाय ब्रेक</string>
+    <string name="chalte_hain">चलते हैं!</string>
+    <string name="shuru">शुरू</string>
+    <string name="pause">रुको</string>
+    <string name="resume">फिर से</string>
+    <string name="streak_text">%d दिन का स्ट्रीक!</string>
+    <string name="wapas_chalein">वापस चलें</string>
+    <string name="return_description">%s के पास वापस जाओ</string>
+    <string name="timer_notification_title">%s पढ़ाई कर रहा है…</string>
+    <string name="timer_notification_channel">स्टडी टाइमर</string>
+    <string name="ek_aur_round">एक और राउंड?</string>
+    <string name="haan">हाँ!</string>
+    <string name="bas_khatam">बस, खत्म</string>
+    <string name="ready_ho">रेडी हो? एक और राउंड?</string>
+    <string name="nahi_ab_bas">नहीं, अब बस</string>
+    <string name="save_karo">सेव करो</string>
+    <string name="abhi_nahi">अभी नहीं</string>
+    <string name="subject_prompt">कोई स्पेसिफिक टॉपिक? (ऑप्शनल)</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="companion_name">साथी का नाम</string>
+    <string name="study_duration">पढ़ाई का समय</string>
+    <string name="break_duration">ब्रेक का समय</string>
+    <string name="pip_mode">पिप मोड</string>
+    <string name="notifications">नोटिफिकेशन</string>
+    <string name="language">भाषा</string>
+    <string name="reset_progress">प्रोग्रेस रीसेट</string>
+    <string name="padho_badho">पढ़ो, बढ़ो</string>
+    <string name="pip_studying">पढ़ रहा है</string>
+</resources>

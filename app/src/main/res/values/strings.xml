@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saathi</string>
+    <string name="tagline">Padhai ka dost</string>
+    <string name="shuru_karein">Shuru Karein</string>
+    <string name="name_prompt">Apne saathi ka naam kya hoga?</string>
+    <string name="name_hint">Naam likho</string>
+    <string name="backstory_cta">Yahi hai mera Saathi!</string>
+    <string name="city_prompt">Tum kahan se ho?</string>
+    <string name="city_hint">City select karo</string>
+    <string name="session_prompt">Kitni der padhna hai ek baar mein?</string>
+    <string name="session_preview">%d min padhai, phir %d min chai break</string>
+    <string name="chalte_hain">Chalte hain!</string>
+    <string name="shuru">Shuru</string>
+    <string name="pause">Ruko</string>
+    <string name="resume">Phir se</string>
+    <string name="streak_text">%d din ka streak!</string>
+    <string name="wapas_chalein">Wapas Chalein</string>
+    <string name="return_description">Return to %s</string>
+    <string name="timer_notification_title">%s padhai kar raha hai…</string>
+    <string name="timer_notification_channel">Study Timer</string>
+    <string name="ek_aur_round">Ek aur round?</string>
+    <string name="haan">Haan!</string>
+    <string name="bas_khatam">Bas, khatam</string>
+    <string name="ready_ho">Ready ho? Ek aur round?</string>
+    <string name="nahi_ab_bas">Nahi, ab bas</string>
+    <string name="save_karo">Save karo</string>
+    <string name="abhi_nahi">Abhi nahi</string>
+    <string name="subject_prompt">Koi specific topic? (optional)</string>
+    <string name="settings">Settings</string>
+    <string name="companion_name">Companion Name</string>
+    <string name="study_duration">Study Duration</string>
+    <string name="break_duration">Break Duration</string>
+    <string name="pip_mode">PiP Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">Language</string>
+    <string name="reset_progress">Reset Progress</string>
+    <string name="padho_badho">Padho, Badho</string>
+    <string name="pip_studying">studying</string>
+</resources>
